@@ -21,7 +21,7 @@ CONTROL_CODE	= 00000000 00000000;
 /APPL
 /MN
    1:  LBL[1:T2 check] ;
-   2:  IF (F[12:ON :# T2 detail]) THEN ;
+   2:  IF (F[12:OFF:# T2 detail]) THEN ;
    3:  UALM[6] ;
    4:  JMP LBL[1] ;
    5:  ENDIF ;

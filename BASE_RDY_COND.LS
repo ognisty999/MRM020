@@ -19,6 +19,6 @@ TCD:  STACK_SIZE	= 0,
 DEFAULT_GROUP	= *,*,*,*,*;
 CONTROL_CODE	= 00000000 00000000;
 /MN
-   1:  WHEN DI[4:OFF:robot base rdy]=OFF,CALL BASE_MOVED ;
+   1:  WHEN DI[4:ON :robot base rdy]=OFF,CALL BASE_MOVED ;
 /POS
 /END

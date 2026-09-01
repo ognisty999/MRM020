@@ -26,7 +26,7 @@ CONTROL_CODE	= 00000000 00000000;
    4:   ;
    5:  IF (R[21:# row]=R[23:row to start] AND R[22:# col]=R[24:col to start]) THEN ;
    6:  LBL[1:T1/T2 check] ;
-   7:  IF (F[11:OFF:# T1 detail] OR F[12:ON :# T2 detail]) THEN ;
+   7:  IF (F[11:OFF:# T1 detail] OR F[12:OFF:# T2 detail]) THEN ;
    8:  UALM[6] ;
    9:  JMP LBL[1] ;
   10:  ENDIF ;

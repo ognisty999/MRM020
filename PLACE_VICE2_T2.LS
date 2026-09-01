@@ -25,7 +25,7 @@ CONTROL_CODE	= 00000000 00000000;
    3:  UALM[7] ;
    4:  JMP LBL[1] ;
    5:  ENDIF ;
-   6:  IF (!F[12:ON :# T2 detail]),JMP LBL[10] ;
+   6:  IF (!F[12:OFF:# T2 detail]),JMP LBL[10] ;
    7:  UTOOL_NUM=2 ;
    8:  UFRAME_NUM=9 ;
    9:   ;

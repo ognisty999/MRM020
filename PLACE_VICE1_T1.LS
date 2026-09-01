@@ -20,7 +20,7 @@ DEFAULT_GROUP	= 1,*,*,*,*;
 CONTROL_CODE	= 00000000 00000000;
 /MN
    1:  LBL[1:vice1 check] ;
-   2:  IF (DI[13:ON :vice1 detail]) THEN ;
+   2:  IF (DI[13:OFF:vice1 detail]) THEN ;
    3:  UALM[7] ;
    4:  JMP LBL[1] ;
    5:  ENDIF ;
@@ -38,7 +38,7 @@ CONTROL_CODE	= 00000000 00000000;
   17:  WAIT DO[2:OFF:open vice1]=OFF    ;
   18:  DO[3:OFF:close vice1]=ON ;
   19:  WAIT   5.00(sec) ;
-  20:  WAIT DI[13:ON :vice1 detail]=ON    ;
+  20:  WAIT DI[13:OFF:vice1 detail]=ON    ;
   21:  DO[3:OFF:close vice1]=OFF ;
   22:   ;
   23:L PR[31:# vice1 T1/U6] 500mm/sec CNT20 Tool_Offset,PR[96:#Tof vi apr (e]    ;

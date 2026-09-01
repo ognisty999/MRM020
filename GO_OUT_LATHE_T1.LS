@@ -30,7 +30,7 @@ CONTROL_CODE	= 00000000 00000000;
    8:  LBL[1:skip deep lathe] ;
    9:J P[2:face to door] 50% CNT50    ;
   10:   ;
-  11:  IF (F[5:OFF:# NO close d / start cnc]) THEN ;
+  11:  IF (F[5:ON :# NO close d / start cnc]) THEN ;
   12:J P[3:side to door] 50% CNT50    ;
   13:   ;
   14:  ELSE ;

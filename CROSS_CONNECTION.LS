@@ -22,7 +22,7 @@ CONTROL_CODE	= 00000000 00000000;
    1:  F[201:OFF]=(DI[1:OFF:scanner 1 ok] OR DI[2:OFF:scanner 2 ok]) ;
    2:   ;
    3:  IF (RI[3:ON :T1 opened] OR RI[4:OFF:T1 closed]),F[11:OFF:# T1 detail]=(OFF) ;
-   4:  IF (RI[1:OFF:T2 opened] OR RI[2:OFF:T2 closed]),F[12:ON :# T2 detail]=(OFF) ;
+   4:  IF (RI[1:OFF:T2 opened] OR RI[2:OFF:T2 closed]),F[12:OFF:# T2 detail]=(OFF) ;
    5:   ;
    6:  DO[14:ON :yellow light]=(!DI[3:OFF:scanner 3 ok]) ;
    7:  DO[15:OFF:green light]=(UO[3:OFF:Prg running]) ;

@@ -21,17 +21,17 @@ CONTROL_CODE	= 00000000 00000000;
 /APPL
 /MN
    1:  LBL[1:T2 check] ;
-   2:  IF (F[12:ON :# T2 detail]) THEN ;
+   2:  IF (F[12:OFF:# T2 detail]) THEN ;
    3:  UALM[6] ;
    4:  JMP LBL[1] ;
    5:  ENDIF ;
-   6:  IF DI[13:ON :vice1 detail]=OFF,JMP LBL[10] ;
+   6:  IF DI[13:OFF:vice1 detail]=OFF,JMP LBL[10] ;
    7:  UTOOL_NUM=2 ;
    8:  UFRAME_NUM=7 ;
    9:   ;
   10:J PR[32:# vice1 T2/U7] 50% CNT20 Tool_Offset,PR[96:#Tof vi apr (e]    ;
   11:   ;
-  12:  //WAIT DI[13:ON :vice1 detail]=ON    ;
+  12:  //WAIT DI[13:OFF:vice1 detail]=ON    ;
   13:  CALL PICK_UP_RDY_T2    ;
   14:   ;
   15:L PR[32:# vice1 T2/U7] 500mm/sec FINE    ;

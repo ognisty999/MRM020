@@ -23,7 +23,7 @@ CONTROL_CODE	= 00000000 00000000;
    1:  !(if)tr# T2place > vi1 T2pick ;
    2:  !cycle ends with det in gr ;
    3:   ;
-   4:  IF (!F[12:ON :# T2 detail]),JMP LBL[1] ;
+   4:  IF (!F[12:OFF:# T2 detail]),JMP LBL[1] ;
    5:  IF (R[21:# row]=R[23:row to start] AND R[22:# col]=R[24:col to start]),CALL GO_TABLE_T2 ;
    6:   ;
    7:  CALL PLACE_TRAY_T2    ;

@@ -2,13 +2,13 @@
 /ATTR
 OWNER		= MNEDITOR;
 COMMENT		= "";
-PROG_SIZE	= 496;
+PROG_SIZE	= 544;
 CREATE		= DATE 26-03-04  TIME 13:03:06;
-MODIFIED	= DATE 26-05-07  TIME 10:30:18;
+MODIFIED	= DATE 26-08-31  TIME 20:43:24;
 FILE_NAME	= PLACE_TR;
 VERSION		= 0;
-LINE_COUNT	= 18;
-MEMORY_SIZE	= 804;
+LINE_COUNT	= 22;
+MEMORY_SIZE	= 836;
 PROTECT		= READ_WRITE;
 TCD:  STACK_SIZE	= 0,
       TASK_PRIORITY	= 50,
@@ -29,14 +29,18 @@ CONTROL_CODE	= 00000000 00000000;
    7:  PAUSE ;
    8:   ;
    9:  !T2 touch up > start here ;
-  10:  OVERRIDE=50% ;
+  10:  OVERRIDE=2% ;
   11:L PR[R[52]] 100mm/sec FINE    ;
   12:  !^^^^^^^^^^^^^ ;
   13:   ;
-  14:L PR[R[52]] 400mm/sec CNT20 Tool_Offset,PR[91:#Tof tr apr (e]    ;
-  15:  !> skip tray T2 ;
-  16:  END ;
-  17:  !> skip this pos in cycle ;
-  18:  CALL RESET_PR(R[52:# tray T2/U1]) ;
+  14:  RO[2:OFF:close T2]=ON ;
+  15:  WAIT   1.00(sec) ;
+  16:  RO[2:OFF:close T2]=OFF ;
+  17:   ;
+  18:L PR[R[52]] 400mm/sec CNT20 Tool_Offset,PR[91:#Tof tr apr (e]    ;
+  19:  !> skip tray T2 ;
+  20:  END ;
+  21:  !> skip this pos in cycle ;
+  22:  CALL RESET_PR(R[52:# tray T2/U1]) ;
 /POS
 /END

@@ -20,7 +20,7 @@ DEFAULT_GROUP	= 1,*,*,*,*;
 CONTROL_CODE	= 00000000 00000000;
 /APPL
 /MN
-   1:  IF (!F[12:ON :# T2 detail]),JMP LBL[10] ;
+   1:  IF (!F[12:OFF:# T2 detail]),JMP LBL[10] ;
    2:  UTOOL_NUM=2 ;
    3:  UFRAME_NUM=1 ;
    4:   ;
