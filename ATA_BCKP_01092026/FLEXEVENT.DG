@@ -1,0 +1,137 @@
+Func       Date      Time    Tick       NavID              Text
+KEY   72 11-MAY-26 06:39:06  3f62 /wizard/guided/steps Initial Setup
+EXIT  72 11-MAY-26 06:39:06  3f63 191 1 
+HOME  72 11-MAY-26 06:40:48   42d flexuif_home_c Hardkey 
+KEY   72 11-MAY-26 06:40:48   519 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:40:54  1096 /wizard/guided/steps Initial Setup
+EXIT  72 11-MAY-26 06:40:54  1097 155 1 
+KEY   72 11-MAY-26 06:41:26  4e2d /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:41:30  5591 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:41:32  5c14 /nav/core/wizardkeys/f2 CANCEL
+KEY   72 11-MAY-26 06:41:40  6a8e /nav/core/wizardkeys/f2 CANCEL
+EXIT  72 11-MAY-26 06:41:40  6a8f 381 11 
+KEY   72 11-MAY-26 06:44:14  98ed /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:44:52  e306 /wizard/guided/steps Initial Setup
+EXIT  72 11-MAY-26 06:44:52  e307 18 5 
+HOME  72 11-MAY-26 06:44:58  ee45 flexuif_home_c Hardkey 
+KEY   72 11-MAY-26 06:44:58  eed5 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:45:04  f80a /wizard/guided/steps Initial Setup
+EXIT  72 11-MAY-26 06:45:04  f80b 381 11 
+HOME  72 11-MAY-26 06:46:28  9c59 flexuif_home_c Hardkey 
+KEY   72 11-MAY-26 06:46:28  9ce5 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:46:34  a89e /wizard/guided/steps Initial Setup
+EXIT  72 11-MAY-26 06:46:34  a89f 1200 1 
+HOME  72 11-MAY-26 06:49:38   fd5 flexuif_home_c Hardkey 
+KEY   72 11-MAY-26 06:49:38  1079 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:49:50  2656 /wizard/guided/steps Initial Setup
+EXIT  72 11-MAY-26 06:49:50  2658 107 1 
+HOME  72 11-MAY-26 06:50:58  ac29 flexuif_home_c Hardkey 
+KEY   72 11-MAY-26 06:50:58  acb9 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:51:10  c3e2 /wizard/guided/steps Initial Setup
+EXIT  72 11-MAY-26 06:51:10  c3e3 157 1 
+HOME  72 11-MAY-26 06:52:08  3539 flexuif_home_c Hardkey 
+KEY   72 11-MAY-26 06:52:08  3611 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:52:16  43be /wizard/guided/steps Initial Setup
+EXIT  72 11-MAY-26 06:52:16  43bf 381 11 
+HOME  72 11-MAY-26 06:53:12  b15f flexuif_home_c Hardkey 
+KEY   72 11-MAY-26 06:53:12  b1ed /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:53:14  b739 /wizard/guided/safetyhelp Safety Details
+KEY   72 11-MAY-26 06:53:16  b89e /nav/core/helpkeys/next 
+KEY   72 11-MAY-26 06:53:44  f2d6 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:53:46  f6de /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:53:48  f7c2 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:53:48  f8be /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:53:48  f9c6 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:53:50  fb0a /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:53:50  fc72 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:53:50  fd9e /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:53:50  fe8e /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:53:54   302 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 06:54:28  45b2 /wizard/guided/steps Initial Setup
+EXIT  72 11-MAY-26 06:54:28  45b3 381 11 
+KEY   72 11-MAY-26 17:29:20  e34c /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 17:29:26  ef31 /wizard/guided/steps Initial Setup
+EXIT  72 11-MAY-26 17:29:26  ef32 138 2 
+HOME  72 11-MAY-26 17:53:14  d34d flexuif_home_c Hardkey 
+KEY   72 11-MAY-26 17:53:14  d3f1 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 17:53:14  d469 /wizard/guided/steps Initial Setup
+KEY   72 11-MAY-26 17:53:18  db42 /wizard/guided/steps Initial Setup
+EXIT  72 11-MAY-26 17:53:18  db43 381 11 
+POWR  72 11-MAY-26 17:56:40  410e Power Cycle 
+POWR  72 12-MAY-26 06:12:38  3588 Power Cycle 
+HOME  72 12-MAY-26 07:52:22  dc23 flexuif_home_c Hardkey 
+NOTE  72 12-MAY-26 07:52:22  dc26 <b>WARNING:</b><br/>Unsafe operation of the robot could injure personnel or damage equipment. 
+KEY   72 12-MAY-26 07:52:24  dd3f /wizard/guided/steps Initial Setup
+KEY   72 12-MAY-26 07:52:26  e260 /wizard/guided/steps Initial Setup
+EXIT  72 12-MAY-26 07:52:26  e261 381 11 
+HOME  72 12-MAY-26 07:52:42    df flexuif_home_c Hardkey 
+KEY   72 12-MAY-26 07:52:42   19f /wizard/guided/steps Initial Setup
+KEY   72 12-MAY-26 07:52:58  1fc0 /wizard/guided/steps Initial Setup
+EXIT  72 12-MAY-26 07:52:58  1fc1 107 1 
+KEY   72 12-MAY-26 07:55:36  54f3 /wizard/guided/steps Initial Setup
+KEY   72 12-MAY-26 07:55:40  5e70 /wizard/guided/steps Initial Setup
+EXIT  72 12-MAY-26 07:55:40  5e71 381 11 
+HOME  72 12-MAY-26 10:02:22  5d98 flexuif_home_c Hardkey 
+KEY   72 12-MAY-26 10:02:22  5e54 /wizard/guided/steps Initial Setup
+KEY   72 12-MAY-26 10:03:00  a619 /wizard/guided/steps Initial Setup
+EXIT  72 12-MAY-26 10:03:00  a61a 151 1 
+POWR  72 14-MAY-26 06:23:10  40e7 Power Cycle 
+POWR  72 18-MAY-26 09:27:58  3e0c Power Cycle 
+POWR  72 30-JUN-26 18:36:20  4055 Power Cycle 
+POWR  72 28-AUG-26 16:36:56  3e15 Power Cycle 
+POWR  72 28-AUG-26 21:08:46  3599 Power Cycle 
+POWR  72 28-AUG-26 21:10:26  35ae Power Cycle 
+POWR  72 28-AUG-26 21:11:58  3566 Power Cycle 
+POWR  72 31-AUG-26 09:52:22  4048 Power Cycle 
+HOME  72 31-AUG-26 10:14:40  73cd flexuif_home_c Hardkey 
+NOTE  72 31-AUG-26 10:14:40  7496 <b>WARNING:</b><br/>Unsafe operation of the robot could injure personnel or damage equipment. 
+KEY   72 31-AUG-26 10:14:40  7579 /nav/core/home HOME
+KEY   72 31-AUG-26 10:14:44  7b6d /nav/core/home HOME
+KEY   72 31-AUG-26 10:14:44  7dc1 /nav/core/home HOME
+KEY   72 31-AUG-26 10:14:52  8b3e /nav/core/homekeys/f3 
+KEY   72 31-AUG-26 10:14:52  8d4a /nav/core/homekeys/f3 
+KEY   72 31-AUG-26 10:15:00  9c7e /nav/core/homekeys/f3 
+NAV  150 31-AUG-26 10:15:04  a2b0 /nav/core/home/util/file 
+KEY   72 31-AUG-26 10:15:04  a2b7 /nav/core/homekeys/f3 
+NAV  150 31-AUG-26 10:15:10  b01c /nav/core/home/teach/recent 
+KEY   72 31-AUG-26 10:15:10  b022 /nav/core/home HOME
+KEY   72 31-AUG-26 10:15:22  c6ad /nav/core/home HOME
+NAV  150 31-AUG-26 10:15:28  d01d /nav/core/home/runprog/prmon 
+KEY   72 31-AUG-26 10:15:28  d023 /nav/core/home HOME
+KEY   72 31-AUG-26 10:15:28  d023 /nav/core/home HOME
+EXIT  72 31-AUG-26 10:15:28  d024 1388 1 
+HOME  72 31-AUG-26 10:15:30  d561 flexuif_home_c Hardkey 
+KEY   72 31-AUG-26 10:15:30  d5f1 /wizard/guided/steps Initial Setup
+NAV  150 31-AUG-26 10:15:40  e8b8 /nav/core/home/util/file 
+KEY   72 31-AUG-26 10:15:40  e8be /nav/core/home HOME
+KEY   72 31-AUG-26 10:15:44  f188 /nav/core/wizardkeys/f2 CANCEL
+KEY   72 31-AUG-26 10:15:50  fae9 /nav/core/wizardkeys/f2 CANCEL
+EXIT  72 31-AUG-26 10:15:50  faea 71 1 
+HOME  72 31-AUG-26 10:16:04  19b1 flexuif_home_c Hardkey 
+KEY   72 31-AUG-26 10:16:06  1a59 /wizard/guided/steps Initial Setup
+KEY   72 31-AUG-26 10:16:06  1d51 /wizard/guided/steps Initial Setup
+NAV  150 31-AUG-26 10:16:16  2eb2 /nav/core/home/teach/recent 
+KEY   72 31-AUG-26 10:16:16  2eb9 /nav/core/home HOME
+NAV  150 31-AUG-26 10:16:18  33ed /nav/core/recent/edit1 
+KEY   72 31-AUG-26 10:16:18  33f3 /nav/core/recent Select a Program
+KEY   72 31-AUG-26 10:16:18  33f4 /nav/core/home HOME
+EXIT  72 31-AUG-26 10:16:18  33f5 64 1 
+HOME  72 31-AUG-26 10:16:36  5635 flexuif_home_c Hardkey 
+KEY   72 31-AUG-26 10:16:36  56dd /wizard/guided/steps Initial Setup
+NAV  150 31-AUG-26 10:16:42  6296 /nav/core/home/teach/edit 
+KEY   72 31-AUG-26 10:16:42  629d /nav/core/home HOME
+KEY   72 31-AUG-26 10:16:42  629e /nav/core/home HOME
+EXIT  72 31-AUG-26 10:16:42  629f 64 1 
+POWR  72 31-AUG-26 12:32:52  3e5d Power Cycle 
+HOME  72 31-AUG-26 12:40:08  8df2 flexuif_home_c Hardkey 
+NOTE  72 31-AUG-26 12:40:08  8dff <b>WARNING:</b><br/>Unsafe operation of the robot could injure personnel or damage equipment. 
+KEY   72 31-AUG-26 12:40:08  8f0e /wizard/guided/steps Initial Setup
+KEY   72 31-AUG-26 12:40:12  9793 /wizard/guided/steps Initial Setup
+EXIT  72 31-AUG-26 12:40:12  9794 74 1 
+HOME  72 31-AUG-26 12:40:52  e496 flexuif_home_c Hardkey 
+KEY   72 31-AUG-26 12:40:52  e56a /wizard/guided/steps Initial Setup
+KEY   72 31-AUG-26 12:40:58  ef77 /wizard/guided/steps Initial Setup
+EXIT  72 31-AUG-26 12:40:58  ef78 74 1 
+POWR  72 31-AUG-26 16:46:30  3563 Power Cycle 
+POWR  72 01-SEP-26 08:25:14  4532 Power Cycle 
+POWR  72 01-SEP-26 10:08:42  353d Power Cycle 

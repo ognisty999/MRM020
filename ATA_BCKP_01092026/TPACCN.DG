@@ -1,0 +1,110 @@
+                       TP Accounting
+
+F Number: YS04013
+VERSION : HandlingTool         
+$VERSION: V9.30251       6/8/2023
+DATE:     01-SEP-26 17:17 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+Id:  962, 1                       41:34            8          67
+Home                        02 14:35:52          125        1170
+DCS                            02:59:44           71        1918
+Id:  349, 16          01-06-21 11:50:34            2           3
+Customer Register           01 03:48:12           90         723
+Alarm Log                04-29 10:24:56          117        3264
+Config                            41:56           20        1471
+Master/Cal                        01:46            4          34
+Position Display            05 06:07:08          103        5030
+Variables                         21:02           17        1640
+SELECT                      06 08:49:06         1113       26641
+EDIT                     02-20 14:38:56         1147       67901
+Hints                             05:40           35          72
+PROFINET                    02 18:06:42           43        2001
+Host Comm                      23:09:48           16         794
+EtherNet/IP                       01:24            5          86
+File                     01-08 07:15:04           71        6561
+Registers                02-21 18:49:46          222       12547
+Position Reg             01-05 03:10:56          200       18581
+USER                     01-04 22:44:36           76         522
+Comm Log                             50            7          25
+USER2                                06            1           1
+Id:  381, 5                       01:40           42           0
+Macros                            10:42           22          90
+Home                        06 21:57:38           10         194
+Cell Intface                   04:58:58           59         570
+Robot                       03 03:53:44          108        4534
+Browser                              56            2          24
+Version ID                        04:50           13         299
+Id:  936, 1                          36            2          23
+Id:  1201, 1                         12            1           0
+Program Setup                     01:40            3          92
+Id:  1163, 2                   17:52:48           10         345
+Digital                     03 13:09:14          178       11836
+UOP                               23:10           36        1619
+Analog                            05:34            7        1239
+Space fnct.                       09:04            5         753
+KAREL Vars                           44            7          41
+KAREL Posns                          34            5          24
+Frames                         01:54:00           29        4807
+Macro                             14:16           11         894
+SOP                               15:32           21         521
+User Alarm                        16:42           18        1034
+Ref Position                      10:02            7         687
+BG Logic                          32:48           46         823
+Flag                           04:20:48           94        4744
+Motion                            05:12            5         125
+Prog Select                       03:50           14         111
+String Reg                           12            7          36
+Ovrd Select                       10:16           10         784
+General                              10            1           0
+Clock                                24            5          55
+Condition                            08            1          16
+Notifications                  01:54:28           27         170
+Servo-off History                    16            2           5
+Reminder                    08 04:39:04           12         139
+Axis                                 52            2          31
+4D Display                        18:54           19         428
+Axis Limits                          02            1           1
+EDIT                              02:58            3           1
+RESTART                  04-02 01:45:12          132        3664
+Exec-hist                            56            2          34
+Motion Profiler                      04            1          12
+Home                           06:31:40            6          24
+Program Shift                     01:36            8           3
+Motion Log                           14            2           0
+System Log                        01:24            6          64
+Appl Log                             06            2           0
+Password Log                         24            3           6
+Setup                                38            7          36
+Custom                               20            4           0
+Angle entry shift                 03:30           10          43
+Group Exchg                          20            4           1
+Robot Condition                   01:20            8           4
+Error Table                          42            4           0
+Auto Backup                          32            7          18
+iRCalibration                        22            3           2
+Sys Timer                         01:14            1          78
+File Memory                          18            4           0
+Frame Offset                         12            3           1
+Prog Adjust                          56            6           1
+Tool Offset                          22            5           2
+Group                                18            5           4
+Interconnect                         10            2           1
+Link Device                          04            1           0
+Mirror Image Shift                   06            1           0
+Id:  381, 26                         06            1           5
+
+Full Menus:           03-01-26 07:52:20 
+Quick Menus:                         00 
+
+MENU Popup:                                      874
+[ TYPE ] Pullup:                                 360
+
+Functions at COLD start
+ABORT (ALL)                                      267
+Disable FWD/BWD                                    2
+CYCLE POWER                                       45
+
+Functions at CTRL start
+START (COLD)                                       4

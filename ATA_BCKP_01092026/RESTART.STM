@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>restart</title>
+</head>
+
+<body>
+
+<object classid="clsid:7106066C-0E45-11D3-81B6-0000E206D650" id="FRIPToggleButton" style="position: absolute; width: 49%; height: 70px; top: 10px; left: 1%">
+				<param name="Caption" value="1 tryb restartu" />
+				<param name="FontSize" value="10" />
+				<param name="width" value="657" />
+				<param name="height" value="70" />
+				<param name="DataType" value="2" />
+				<param name="DataIndex" value="63" />
+				<param name="TrueColor" value="65280" />
+				<param name="FalseColor" value="255" />
+				<param name="Interval" value="250" />
+				<param name="TrueFont" value="-1" />
+				<param name="FastLoad" value="-1" />
+</object>
+<object classid="clsid:7106066C-0E45-11D3-81B6-0000E206D650" id="FRIPToggleButton" style="position: absolute; width: 49%; height: 70px; top: 90px; left: 1%">
+				<param name="Caption" value="2 anuluj obecny program" />
+				<param name="FontSize" value="10" />
+				<param name="width" value="657" />
+				<param name="height" value="70" />
+				<param name="DataType" value="35" />
+				<param name="DataIndex" value="154" />
+				<param name="TrueColor" value="65280" />
+				<param name="FalseColor" value="12632256" />
+				<param name="Interval" value="250" />
+				<param name="TrueFont" value="-1" />
+				<param name="FastLoad" value="-1" />
+				<param name="Pulse" value="-1" />
+				<param name="PulseTime" value="500" />
+</object>
+<object classid="clsid:7106066C-0E45-11D3-81B6-0000E206D650" id="FRIPToggleButton" style="position: absolute; width: 49%; height: 70px; top: 170px; left: 1%;">
+				<param name="Caption" value="3 nowa produkcja" />
+				<param name="FontSize" value="10" />
+				<param name="width" value="657" />
+				<param name="height" value="70" />
+				<param name="DataType" value="35" />
+				<param name="DataIndex" value="168" />
+				<param name="TrueColor" value="65280" />
+				<param name="FalseColor" value="12632256" />
+				<param name="Interval" value="250" />
+				<param name="TrueFont" value="-1" />
+				<param name="FastLoad" value="-1" />
+				<param name="Pulse" value="-1" />
+				<param name="PulseTime" value="500" />
+</object>
+<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp" style="position: absolute; width: 40%; height: 70px; top: 10px; left: 50%">
+				<param name="Caption" value="(auto) (reset)" />
+				<param name="FontSize" value="10" />
+				<param name="width" value="535" />
+				<param name="height" value="70" />
+				<param name="DataType" value="21" />
+				<param name="DataIndex" value="1" />
+				<param name="TrueColor" value="12632256" />
+				<param name="FalseColor" value="255" />
+				<param name="Interval" value="250" />
+				<param name="TrueFont" value="-1" />
+				<param name="FastLoad" value="-1" />
+				<param name="TrueCaption" value="gotowy" />
+</object>
+<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp" style="position: absolute; width: 40%; height: 70px; top: 90px; left: 50%">
+				<param name="Caption" value="" />
+				<param name="FontSize" value="9" />
+				<param name="width" value="535" />
+				<param name="height" value="70" />
+				<param name="DataType" value="21" />
+				<param name="DataIndex" value="4" />
+				<param name="TrueColor" value="255" />
+				<param name="FalseColor" value="12632256" />
+				<param name="Interval" value="250" />
+				<param name="TrueFont" value="-1" />
+				<param name="FastLoad" value="-1" />
+				<param name="TrueCaption" value="pauza" />
+</object>
+<object classid="clsid:71060668-0E45-11D3-81B6-0000E206D650" id="FRIPToggleLamp" style="position: absolute; width: 40%; height: 70px; top: 170px; left: 50%">
+				<param name="Caption" value="program zatrzymany" />
+				<param name="FontSize" value="9" />
+				<param name="width" value="535" />
+				<param name="height" value="70" />
+				<param name="DataType" value="21" />
+				<param name="DataIndex" value="3" />
+				<param name="TrueColor" value="65280" />
+				<param name="FalseColor" value="12632256" />
+				<param name="Interval" value="250" />
+				<param name="TrueFont" value="-1" />
+				<param name="FastLoad" value="-1" />
+				<param name="TrueCaption" value="program uruchomiony" />
+</object>
+<object classid="clsid:7106065C-0E45-11D3-81B6-0000E206D650" id="FRIPLabel" style="position: absolute; top: 315px; height: 40px; width: 100%; right: 1%;">
+				<param name="Caption" value="" />
+				<param name="FontSize" value="8" />
+				<param name="width" value="1353" />
+				<param name="height" value="40" />
+				<param name="DataType" value="100" />
+				<param name="DataIndex" value="" />
+				<param name="Interval" value="250" />
+				<param name="TrueFont" value="-1" />
+				<param name="FastLoad" value="-1" />
+				<param name="FontUnderline" value="1" />
+</object>
+
+</body>
+
+</html>

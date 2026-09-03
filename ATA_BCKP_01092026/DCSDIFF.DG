@@ -1,0 +1,21 @@
+F Number: YS04013
+VERSION : HandlingTool         
+$VERSION: V9.30251       6/8/2023
+DATE:     01-SEP-26 17:17 
+DCS Version: V4.2.14
+
+
+--- Signature number (Dec) -------------
+                Current        Latch
+1 Total:       -1004366686            0
+  Time:03-JUL-25 17:37              None
+2 Base:          845017611            0
+  Time:03-JUL-25 17:37              None
+   Mastering:    336434605
+   Robot:       -427933804
+   Other:       -730396308
+3 Pos./Speed:  -1128030488            0
+  Time:05-JUL-23 09:27              None
+4 I/O connect: -1424621629            0
+  Time:05-JUL-23 09:27              None
+

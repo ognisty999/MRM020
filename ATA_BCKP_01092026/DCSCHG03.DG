@@ -1,0 +1,34 @@
+F Number: YS04013
+VERSION : HandlingTool         
+$VERSION: V9.30251       6/8/2023
+DATE:     03-JUL-25 17:32 
+DCS Version: V4.2.14
+
+
+--- PROFINET Safety --------------------
+    Status:                       CHGD   
+  1 Enable/Bypass:              BYPASS  
+  2 Safety input size(byte):       8  
+  3 Safety output size(byte):      8  
+  4 F-Address                    200
+    F_iPar_CRC check:            ENABLE 
+    F_iPar_CRC received: NO            0
+    F_iPar_CRC calculation:     9C3C3D8A
+  5   Use Base:                 Yes   
+  6   Use Pos./Speed:           Yes   
+  7   Use I/O connect:          Yes   
+
+--- Signature number (Dec) -------------
+                Current        Latch
+1 Total:       -1004366686            0
+  Time:03-JUL-25 17:32              None
+2 Base:          845017611            0
+  Time:03-JUL-25 17:32              None
+   Mastering:    336434605
+   Robot:       -427933804
+   Other:       -730396308
+3 Pos./Speed:  -1128030488            0
+  Time:05-JUL-23 09:27              None
+4 I/O connect: -1424621629            0
+  Time:05-JUL-23 09:27              None
+
